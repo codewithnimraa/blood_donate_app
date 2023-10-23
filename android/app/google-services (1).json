@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60370283373",
+    "project_id": "bloodapp-bad48",
+    "storage_bucket": "bloodapp-bad48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60370283373:android:191769459c25934951c864",
+        "android_client_info": {
+          "package_name": "com.example.blood_donate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqSoRssRU09439HJHO2EgHgqudyuzqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60370283373:android:ba22b9ff2df2e5c951c864",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqSoRssRU09439HJHO2EgHgqudyuzqJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
